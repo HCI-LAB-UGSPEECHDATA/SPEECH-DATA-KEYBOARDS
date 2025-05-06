@@ -1,7 +1,7 @@
 # SPEECH-DATA-KEYBOARDS
-# Ewe and Ikposo Keyboards
+# Ewe, Ga, Akan and Ikposo Keyboards
 
-This repository contains custom keyboard layouts for the Ewe and Ikposo languages, developed using Keyman Developer.
+This repository contains custom keyboard layouts for the Ewe, Ga, Akan and Ikposo languages, developed using Keyman Developer.
 
 ## Ewe Keyboard
 
@@ -21,6 +21,23 @@ The Ikposo keyboard facilitates typing in the Ikposo language, spoken in the Pla
 - **Intuitive QWERTY layout:**  Simple and easy to use.
 - **On-screen keyboard:**  Available for visual character input.
 
+ ## Akan Keyboard
+
+The Akan keyboard supports typing in Akan languages (such as Twi and Fante), widely spoken in Ghana. It features:
+
+- **Full character coverage:** Includes all Akan letters, including diacritics and tonal marks.
+- **Familiar QWERTY layout:** Easy to adapt for users accustomed to standard keyboards.
+- **On-screen keyboard:** Visual reference for special character input.
+- **Customization options:** Adjustable layouts and text size for accessibility.
+
+## Ga Keyboard
+
+The Ga keyboard enables efficient input in the Ga language, spoken primarily in the Greater Accra Region of Ghana. It offers:
+
+- **Complete Ga characters:** Includes tonal characters and diacritics specific to Ga.
+- **User-friendly design:** Based on QWERTY, easy for most users to pick up.
+- **On-screen keyboard support:** Helps identify and use special characters.
+- **Accessibility settings:** Adjustable font size and keyboard layout for readability.
 
 ## Installation
 
