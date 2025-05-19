@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>3</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\akan.kpj</path>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_aca2249b167bc150663c8cbc77b7d1eb</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\akan.kpj</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_855cb354a18391b63251f7cec9b14d2c</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\akan.kpj.user</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_1102f102a0c40ec9884e96bb46bed081</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\akan.ico</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0126b873fe9080d43a70b38a3a21f51d</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\akan.keyman-touch-layout</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_30cc26b412d8488bfbb3b378c2bc6439</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\akan.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>False</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_1724456de84a09708a20a5737bfeb0b5</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\akan.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_67dd3e3a2ce430cc76993c7e2d56221b</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\akan.kvks</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\readme.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\welcome.htm</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_1d3fb1925344ea074cb7b7e8499eb41f</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\..\build\akan.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_fac8a1a99568f76203db7236bcd89bdb</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\..\build\akan.js</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_569920ff0814f47ca80e464eef329414</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\..\build\akan.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\..\LICENSE.md</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>akan.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\akan.kps</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>welcome.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\welcome.htm</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU2</ID>
+      <Filename>akan.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\akan.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU3</ID>
+      <Filename>akan.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\isaac\Desktop\akan.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU4</ID>
+      <Filename>readme.htm</Filename>
+      <FileType>.htm</FileType>
+      <FullPath>C:\Users\isaac\Documents\Keyman Developer\Projects\akan\source\readme.htm</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
